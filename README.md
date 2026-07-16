@@ -673,7 +673,7 @@ IPL Season =
 **Gayatri Bodhe** — M.Sc. Computer Science student at Kaveri College, Pune  
 Aspiring Data Analyst | Power BI | SQL | Python | Flutter Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-bodhe/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GayatriBodhe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-mothukuri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishna19072006)
 
 ---
