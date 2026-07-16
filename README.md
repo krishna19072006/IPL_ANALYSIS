@@ -670,8 +670,8 @@ IPL Season =
 
 ## 👩‍💻 About Me
 
-**Gayatri Bodhe** — M.Sc. Computer Science student at Kaveri College, Pune  
-Aspiring Data Analyst | Power BI | SQL | Python | Flutter Developer
+**Veera Sai Krishna Mothukuri** - Currently Pursuing B.Tech in CSE and Data Science at Aditya University , Surampalem
+Aspiring Data Analyst | Power BI | SQL | Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-mothukuri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishna19072006)
